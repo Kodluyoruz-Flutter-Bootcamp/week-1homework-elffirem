@@ -1,15 +1,10 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week - 1
 
 # Homework 
-```Ödev```
-
+```Calculation Machine```
 
 ## Homework Description
-
-```Ödev Açıklaması ```
-
+```Simple calculation machine with flutter ```
 
 ## Author
-
-```Ödevi yapan```
+```Elif İrem Külcü```
